@@ -83,3 +83,4 @@ Fix CI/CD pipeline config
 Add blockchain consensus simulator
 Update feature #1: Enhance logic
 Update feature #2: Fix API
+Update feature #3: Enhance logic
