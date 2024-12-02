@@ -32,3 +32,4 @@ Commit number 1 on 2025-05-15 12:0:00 with random minute
 Commit number 2 on 2025-05-16 12:2:00 with random minute
 Quantum leap in crypto calculations achieved!
 Refactor transaction handler
+Add wallet import feature
