@@ -34,3 +34,4 @@ Quantum leap in crypto calculations achieved!
 Refactor transaction handler
 Add wallet import feature
 Improve token validation logic
+Optimize exchange rate fetch
