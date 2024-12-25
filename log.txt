@@ -35,3 +35,4 @@ Refactor transaction handler
 Add wallet import feature
 Improve token validation logic
 Optimize exchange rate fetch
+Implement address blacklist
