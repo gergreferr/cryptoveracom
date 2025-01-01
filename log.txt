@@ -37,3 +37,4 @@ Improve token validation logic
 Optimize exchange rate fetch
 Implement address blacklist
 Update crypto news parser
+Fix balance rounding issue
