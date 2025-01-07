@@ -39,3 +39,4 @@ Implement address blacklist
 Update crypto news parser
 Fix balance rounding issue
 Enhance API response logging
+Add multi-chain compatibility
