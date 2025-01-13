@@ -40,3 +40,4 @@ Update crypto news parser
 Fix balance rounding issue
 Enhance API response logging
 Add multi-chain compatibility
+Clean up old migration files
