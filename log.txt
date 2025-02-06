@@ -44,3 +44,4 @@ Clean up old migration files
 Introduce cache for price data
 Reorganize folder structure
 Implement custom exceptions
+Update dependencies
