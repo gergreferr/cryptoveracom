@@ -46,3 +46,4 @@ Reorganize folder structure
 Implement custom exceptions
 Update dependencies
 Fix broken unit tests
+Polish CLI help output
