@@ -47,3 +47,4 @@ Implement custom exceptions
 Update dependencies
 Fix broken unit tests
 Polish CLI help output
+Revamp config system
