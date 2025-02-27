@@ -48,3 +48,4 @@ Update dependencies
 Fix broken unit tests
 Polish CLI help output
 Revamp config system
+Add retry mechanism to API
