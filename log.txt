@@ -50,3 +50,4 @@ Polish CLI help output
 Revamp config system
 Add retry mechanism to API
 Improve date formatting
+Update test coverage
