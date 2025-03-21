@@ -52,3 +52,4 @@ Add retry mechanism to API
 Improve date formatting
 Update test coverage
 Integrate Telegram alerts
+Refine market signal logic
