@@ -55,3 +55,4 @@ Integrate Telegram alerts
 Refine market signal logic
 Fix typo in README
 Add error tracking hook
+Split monolithic script
