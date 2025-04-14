@@ -58,3 +58,4 @@ Add error tracking hook
 Split monolithic script
 Implement profit calculator
 Secure secret key handling
+Simplify logging setup
