@@ -80,3 +80,4 @@ Improve webhook performance
 Implement fee estimator
 Update icon assets
 Fix CI/CD pipeline config
+Add blockchain consensus simulator
