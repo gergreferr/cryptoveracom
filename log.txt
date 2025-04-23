@@ -61,3 +61,4 @@ Secure secret key handling
 Simplify logging setup
 Improve user input validation
 Add testnet support
+Fix token parsing bug
