@@ -62,3 +62,4 @@ Simplify logging setup
 Improve user input validation
 Add testnet support
 Fix token parsing bug
+Add burn address checks
