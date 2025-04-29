@@ -63,3 +63,4 @@ Improve user input validation
 Add testnet support
 Fix token parsing bug
 Add burn address checks
+Update project metadata
