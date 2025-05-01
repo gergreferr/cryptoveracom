@@ -64,3 +64,4 @@ Add testnet support
 Fix token parsing bug
 Add burn address checks
 Update project metadata
+Refactor RPC client
