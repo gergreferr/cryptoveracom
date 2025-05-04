@@ -65,3 +65,4 @@ Fix token parsing bug
 Add burn address checks
 Update project metadata
 Refactor RPC client
+Improve rate limiter
