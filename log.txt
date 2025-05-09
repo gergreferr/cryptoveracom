@@ -67,3 +67,4 @@ Update project metadata
 Refactor RPC client
 Improve rate limiter
 Tweak UX for dashboard
+Fix missing translations
