@@ -68,3 +68,4 @@ Refactor RPC client
 Improve rate limiter
 Tweak UX for dashboard
 Fix missing translations
+Enhance dark mode styling
