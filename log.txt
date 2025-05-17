@@ -70,3 +70,4 @@ Tweak UX for dashboard
 Fix missing translations
 Enhance dark mode styling
 Add staking APR display
+Rebuild chart rendering
