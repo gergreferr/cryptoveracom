@@ -71,3 +71,4 @@ Fix missing translations
 Enhance dark mode styling
 Add staking APR display
 Rebuild chart rendering
+Add crypto symbol normalization
