@@ -74,3 +74,4 @@ Rebuild chart rendering
 Add crypto symbol normalization
 Improve mobile responsiveness
 Fix off-by-one error
+Restructure database layer
