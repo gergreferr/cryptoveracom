@@ -77,3 +77,4 @@ Fix off-by-one error
 Restructure database layer
 Add pagination to UI
 Improve webhook performance
+Implement fee estimator
