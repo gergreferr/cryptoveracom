@@ -78,3 +78,4 @@ Restructure database layer
 Add pagination to UI
 Improve webhook performance
 Implement fee estimator
+Update icon assets
